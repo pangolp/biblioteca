@@ -1,0 +1,23 @@
+##### CAMBIOS PROPUESTOS:
+
+-  
+-  
+
+##### PRUEBAS REALIZADAS:
+
+
+##### CÓMO PROBAR LOS CAMBIOS:
+
+-
+-
+
+##### PROBLEMAS CONOCIDOS Y LISTA DE COSAS POR HACER:
+
+
+- [ ]
+- [ ] 
+
+
+##### RAMA(S) DE DESTINO:
+
+Master
